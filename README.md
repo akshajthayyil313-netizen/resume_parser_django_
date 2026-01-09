@@ -19,13 +19,15 @@ This is a Django backend project for resume upload and parsing.
 pip install -r requirements.txt
 python manage.py runserver
 
+
+## Postman Collection
+The exported Postman collection JSON file is included in this repository for API testing.
+
+
 ## API Endpoints
 | Method | Endpoint        | Description                     |
 |------|----------------|---------------------------------|
 | POST | /api/upload/   | Upload resume and get parsed data |
-
-##Postman Collection
-   The exported Postman collection JSON file is included in this repository for API testing.
 
 ## Sample API Response
 ```json

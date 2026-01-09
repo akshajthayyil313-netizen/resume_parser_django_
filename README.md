@@ -32,3 +32,5 @@ python manage.py runserver
   "phone": "+91XXXXXXXXXX",
   "skills": ["Python", "Django", "REST API"]
 }
+##Postman Collection
+   The exported Postman collection JSON file is included in this repository for API testing.

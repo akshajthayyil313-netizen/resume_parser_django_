@@ -24,6 +24,9 @@ python manage.py runserver
 |------|----------------|---------------------------------|
 | POST | /api/upload/   | Upload resume and get parsed data |
 
+##Postman Collection
+   The exported Postman collection JSON file is included in this repository for API testing.
+
 ## Sample API Response
 ```json
 {
@@ -34,5 +37,4 @@ python manage.py runserver
 }
 
 
-##Postman Collection
-   The exported Postman collection JSON file is included in this repository for API testing.
+
